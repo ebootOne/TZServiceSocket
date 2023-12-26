@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">win.pc28.ai</domain>
+        <domain includeSubdomains="true">34.142.169.160</domain>
+    </domain-config>
+</network-security-config>

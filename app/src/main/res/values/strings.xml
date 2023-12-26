@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">群控投注</string>
+    <string name="description">无障碍权限来实现自动发送</string>
+    <string name="on_line">在线</string>
+    <string name="off_line">离线</string>
+    <string name="join_tz_list">加入群投列表</string>
+    <string name="off_tz_list">关闭群投列表</string>
+</resources>
